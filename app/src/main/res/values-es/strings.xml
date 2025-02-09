@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ListaQueHacer</string>
+    <string name="add_task">Añade una tarea</string>
+    <string name="task_description">Descripcion de la tarea</string>
+    <string name="task_title">Titulo de la tarea</string>
+    <string name="save">Guardar</string>
+    <string name="task_deleted">Tarea borrada</string>
+    <string name="please_fill_fields">Por favor complete ambos campos</string>
+
+</resources>
